@@ -4,8 +4,11 @@ A shell script that makes downloading easier on youtube.
 Steps to setup:-
 
 1)-download an app named termux
+
 2)clone or download the script and put it on internal storage of the phone
-3)navigate to the location using cd (for the first time users of termux app setup storage permission using "termux-setup-storage" command and allow it)
+
+3)navigate to the location using cd (for the first time users of termux app setup storage permission using "termux-setup-storage" command and allow it).
+
 4)esecute the script "bash ytdl.sh".
 
 features:-
