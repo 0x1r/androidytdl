@@ -22,3 +22,8 @@ recommendation:-
 execute zsh and keys script too inorder to cancel the download in between you will need to hit ctrl+c and ctrl keys will be visible only after keyscript execution
 
 zsh makes it easier to operate and use termux with auto completions
+
+
+
+after all setup it will be as easy as this to use
+https://youtu.be/CcD4ER17f-A
