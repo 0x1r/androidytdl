@@ -1,5 +1,5 @@
-pkg install git nano curl wget vim  neofetch
-pkg install zsh
+pkg install -y git nano curl wget vim  neofetch
+pkg install -y zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
